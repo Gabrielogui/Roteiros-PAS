@@ -1,7 +1,7 @@
 package roteiro02.parte01;
 
 import java.util.ArrayList;
-import java.util.Arrays;
+//import java.util.Arrays;
 import java.util.List;
 
 public class TestePedido {
