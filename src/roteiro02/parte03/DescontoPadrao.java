@@ -1,4 +1,4 @@
-package roteiro02.parte04;
+package roteiro02.parte03;
 
 public class DescontoPadrao implements RegrasDesconto{
     @Override
